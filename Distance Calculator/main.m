@@ -2,7 +2,7 @@
 //  main.m
 //  Distance Calculator
 //
-//  Created by AppsWorkforce 2 on 30/03/2017.
+//  Created by Ehbraheem on 30/03/2017.
 //  Copyright © 2017 Ehbraheem. All rights reserved.
 //
 
