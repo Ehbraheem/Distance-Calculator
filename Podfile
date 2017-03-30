@@ -6,5 +6,5 @@ target 'Distance Calculator' do
   # use_frameworks!
 
   # Pods for Distance Calculator
-
+pod 'DistanceGetter' , '~> 0.1'
 end
