@@ -1,0 +1,33 @@
+
+/* Class = "UITextField"; placeholder = "First Destination"; ObjectID = "8gX-fV-tys"; */
+"8gX-fV-tys.placeholder" = "First Destination";
+
+/* Class = "UIButton"; normalTitle = "Calculate Distances"; ObjectID = "C5A-vy-LkD"; */
+"C5A-vy-LkD.normalTitle" = "Calculate Distances";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "IMS-Ed-gdL"; */
+"IMS-Ed-gdL.text" = "0.0";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "MlE-Su-K1A"; */
+"MlE-Su-K1A.text" = "0.0";
+
+/* Class = "UITextField"; placeholder = "Second destination"; ObjectID = "Syl-Cc-8kI"; */
+"Syl-Cc-8kI.placeholder" = "Second destination";
+
+/* Class = "UITextField"; placeholder = "Third destination"; ObjectID = "cof-Lj-Oh1"; */
+"cof-Lj-Oh1.placeholder" = "Third destination";
+
+/* Class = "UISegmentedControl"; gab-uq-3Zh.segmentTitles[0] = "Meters"; ObjectID = "gab-uq-3Zh"; */
+"gab-uq-3Zh.segmentTitles[0]" = "Meters";
+
+/* Class = "UISegmentedControl"; gab-uq-3Zh.segmentTitles[1] = "Kilometers"; ObjectID = "gab-uq-3Zh"; */
+"gab-uq-3Zh.segmentTitles[1]" = "Kilometers";
+
+/* Class = "UISegmentedControl"; gab-uq-3Zh.segmentTitles[2] = "Miles"; ObjectID = "gab-uq-3Zh"; */
+"gab-uq-3Zh.segmentTitles[2]" = "Miles";
+
+/* Class = "UITextField"; placeholder = "Enter starting location"; ObjectID = "lav-La-G1g"; */
+"lav-La-G1g.placeholder" = "Enter starting location";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "nHl-nV-IIZ"; */
+"nHl-nV-IIZ.text" = "0.0";

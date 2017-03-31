@@ -388,6 +388,7 @@
 				446EC62E1E8D15F000CF687C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
